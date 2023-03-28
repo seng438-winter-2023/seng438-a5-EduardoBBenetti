@@ -24,10 +24,9 @@
 # Discussion on Similarity and Differences of the Two Techniques
 
 # How the team work/effort was divided and managed
-There were mainly two obstacles through out the development of the lab assignment. Firstly, the incompatibility with some machines made it hard to have all group members working on separate tasks at the same time. To tackle that issue, we divided the team into two pairs to work more efficiently, while one group member analyzed the data, the other inputted the information into the required applications to be correctly processed. Even having this division, all group members participated actively on the discussions about the routes that the team should take and ways to work more efficiently. The second biggest challenge was to setup the softwares and given data into the machines. Instructions were not very clear and detailed for us, since we didnot have any background on how to use them, so it took some time for us to get used to the software and its functionalities.
-
 
 # Difficulties encountered, challenges overcome, and lessons learned
+There were mainly two obstacles through out the development of the lab assignment. Firstly, the incompatibility with some machines made it hard to have all group members working on separate tasks at the same time. To tackle that issue, we divided the team into two pairs to work more efficiently, while one group member analyzed the data, the other inputted the information into the required applications to be correctly processed. Even having this division, all group members participated actively on the discussions about the routes that the team should take and ways to work more efficiently. The second biggest challenge was to setup the softwares and given data into the machines. Instructions were not very clear and detailed for us, since we didnot have any background on how to use them, so it took some time for us to get used to the software and its functionalities.
 
 # Comments/feedback on the lab itself
 
