@@ -15,17 +15,17 @@ The primary objective of this lab was to help students understand the evaluation
 
 # Assessment Using Reliability Growth Testing
 
-![WhatsApp Image 2023-03-30 at 3 43 52 PM (10)](https://user-images.githubusercontent.com/86868318/228972882-5d2f95eb-41ac-43e9-a7c4-9e1d617c245d.jpeg)
-![WhatsApp Image 2023-03-30 at 3 43 52 PM (9)](https://user-images.githubusercontent.com/86868318/228972885-b234df5d-a721-4973-b68a-7868b2d07741.jpeg)
-![WhatsApp Image 2023-03-30 at 3 43 52 PM (8)](https://user-images.githubusercontent.com/86868318/228972887-f2621540-ec3f-4089-a551-1b0029473038.jpeg)
-![WhatsApp Image 2023-03-30 at 3 43 52 PM (7)](https://user-images.githubusercontent.com/86868318/228972889-e9b5644d-e9f1-41ad-8eed-fe57f3c037ed.jpeg)
-![WhatsApp Image 2023-03-30 at 3 43 52 PM (6)](https://user-images.githubusercontent.com/86868318/228972891-ae59edc8-e4ca-4059-9a2d-17b06b27fbf7.jpeg)
-![WhatsApp Image 2023-03-30 at 3 43 52 PM (5)](https://user-images.githubusercontent.com/86868318/228972892-30789d9c-5c67-45d3-8804-fd06d408c950.jpeg)
-![WhatsApp Image 2023-03-30 at 3 43 52 PM (4)](https://user-images.githubusercontent.com/86868318/228972893-ab84a579-7472-488f-9971-a96ae01cee12.jpeg)
-![WhatsApp Image 2023-03-30 at 3 43 52 PM (3)](https://user-images.githubusercontent.com/86868318/228972894-98222621-dd78-4a96-bd71-2f7efbdc9bda.jpeg)
-![WhatsApp Image 2023-03-30 at 3 43 52 PM (2)](https://user-images.githubusercontent.com/86868318/228972896-5988d153-7f48-477f-a17b-63fa63001358.jpeg)
-![WhatsApp Image 2023-03-30 at 3 43 52 PM (1)](https://user-images.githubusercontent.com/86868318/228972898-6c5c4601-3787-4a15-9090-36a8791d8b14.jpeg)
-![WhatsApp Image 2023-03-30 at 3 43 52 PM](https://user-images.githubusercontent.com/86868318/228972901-46105f1b-843f-4f7d-a6ad-7cb8e24ce319.jpeg)
+![WhatsApp Image 2023-03-30 at 3 43 52 PM](https://user-images.githubusercontent.com/86868318/228972993-023e2214-0ed0-4e24-b75d-f50326fc8ad9.jpeg)
+![WhatsApp Image 2023-03-30 at 3 43 52 PM (1)](https://user-images.githubusercontent.com/86868318/228973002-1c7cc760-35ec-4963-b81a-5e8ee03cbb4b.jpeg)
+![WhatsApp Image 2023-03-30 at 3 43 52 PM (2)](https://user-images.githubusercontent.com/86868318/228973012-fa120c47-977a-414e-a65b-b9afc6578a4b.jpeg)
+![WhatsApp Image 2023-03-30 at 3 43 52 PM (3)](https://user-images.githubusercontent.com/86868318/228973019-d2d33a56-05cd-4a5b-8b5d-1d8d44b6c302.jpeg)
+![WhatsApp Image 2023-03-30 at 3 43 52 PM (4)](https://user-images.githubusercontent.com/86868318/228973027-a5559446-ea91-4f4c-ac80-fefd5a83ba44.jpeg)
+![WhatsApp Image 2023-03-30 at 3 43 52 PM (5)](https://user-images.githubusercontent.com/86868318/228973039-b088c0ef-4b15-4943-a2b5-a7c3c5bff57a.jpeg)
+![WhatsApp Image 2023-03-30 at 3 43 52 PM (6)](https://user-images.githubusercontent.com/86868318/228973046-5e638134-cea4-4654-869b-f3c6d6aad368.jpeg)
+![WhatsApp Image 2023-03-30 at 3 43 52 PM (7)](https://user-images.githubusercontent.com/86868318/228973071-a255e4b6-5493-4548-ac31-7630f76e649d.jpeg)
+![WhatsApp Image 2023-03-30 at 3 43 52 PM (8)](https://user-images.githubusercontent.com/86868318/228973103-16ec75b5-327c-43ea-9ad1-9847e6d99040.jpeg)
+![WhatsApp Image 2023-03-30 at 3 43 52 PM (9)](https://user-images.githubusercontent.com/86868318/228973110-9f75f94d-f9e7-4cd6-899f-f15718033f1e.jpeg)
+![WhatsApp Image 2023-03-30 at 3 43 52 PM (10)](https://user-images.githubusercontent.com/86868318/228973132-16a11622-36a6-46d7-bcc6-5f5638d44b5d.jpeg)
 
 # Assessment Using Reliability Demonstration Chart
 
