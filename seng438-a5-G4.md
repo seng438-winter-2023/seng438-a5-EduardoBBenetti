@@ -29,6 +29,12 @@ The primary objective of this lab was to help students understand the evaluation
 
 # Assessment Using Reliability Demonstration Chart
 
+![image](https://user-images.githubusercontent.com/90352983/229032428-c378cda8-555c-40e9-8be9-64be698e63b3.png)
+![image](https://user-images.githubusercontent.com/90352983/229032491-ac362e1c-9c36-4f9c-bedf-14dc73ce6122.png)
+![image](https://user-images.githubusercontent.com/90352983/229032552-ab23b223-e632-4a7b-bae7-7e18b6f358eb.png)
+![image](https://user-images.githubusercontent.com/90352983/229032591-e00df59e-f273-4622-9761-3aa69424cbcd.png)
+![image](https://user-images.githubusercontent.com/90352983/229032381-ea058d25-e007-4e80-8b02-9a78228e6f87.png)
+
 # Comparison of Results
 
 # Discussion on Similarity and Differences of the Two Techniques
