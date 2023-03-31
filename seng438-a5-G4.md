@@ -28,15 +28,30 @@ The primary objective of this lab was to help students understand the evaluation
 ![WhatsApp Image 2023-03-30 at 3 43 52 PM (10)](https://user-images.githubusercontent.com/86868318/228973132-16a11622-36a6-46d7-bcc6-5f5638d44b5d.jpeg)
 
 # Assessment Using Reliability Demonstration Chart
-## 3 plots for MTTFmin, twice, and half of it for test data
+
+3 plots for MTTFmin, twice, and half of it for test data:
 ![image](https://user-images.githubusercontent.com/90352983/229205275-df3a90c3-73be-442c-adb5-fd535f4af751.png)
 
-
+In order to decide the MTTFmin, there were a few steps to complete. Firstly, our group converted the data given in DAT to a text file. Moreover, the value for the Discrimination Ratio (γ), Consumer Risk (β), and Developer Risk(α) were tried with some what-if scenarios for our system under test and the results were the following:
+For Discrimination Ratio = 2, Consumer Risk = 0.1, and Developer Risk = 0.1:
 ![image](https://user-images.githubusercontent.com/90352983/229032428-c378cda8-555c-40e9-8be9-64be698e63b3.png)
+
+For Discrimination Ratio = 1.2, Consumer Risk = 0.1, and Developer Risk = 0.1:
 ![image](https://user-images.githubusercontent.com/90352983/229032491-ac362e1c-9c36-4f9c-bedf-14dc73ce6122.png)
+
+For Discrimination Ratio = 2, Consumer Risk = 0.3, and Developer Risk = 0.2:
 ![image](https://user-images.githubusercontent.com/90352983/229032552-ab23b223-e632-4a7b-bae7-7e18b6f358eb.png)
+
+For Discrimination Ratio = 2, Consumer Risk = 0.2, and Developer Risk = 0.5:
 ![image](https://user-images.githubusercontent.com/90352983/229032591-e00df59e-f273-4622-9761-3aa69424cbcd.png)
-![image](https://user-images.githubusercontent.com/90352983/229032381-ea058d25-e007-4e80-8b02-9a78228e6f87.png)
+
+And finally, for Discrimination Ratio = 2, Consumer Risk = 0.8, and Developer Risk = 0.1:
+![image](https://user-images.githubusercontent.com/90352983/229207738-b402d49a-baa0-49ca-938d-b3529ed50a4c.png)
+
+The last image was decided as our final graph with MTTFmin = 1.0. This MTTFmin was used since the blue Failure Data point crossed the Accept region of our graph. It is also important to note that the Discrimination Ratio was kept above 1 so that the estimation of failure intensity had an acceptable error, and that both Consumer Risk and Developer Risk had to be a value between 0 and 1.
+
+There are several benefits to utilizing RDC as an analytical approach for determining the reliability of a system. One such advantage is its versatility, as it can be applied to various systems with differing characteristics. Additionally, RDC is an efficient method that saves both time and money in the analysis of a system's relibiality. Moreover, the ability to conduct experimentation with varying levels of confidence and what-if scenarios is a straightforward process.
+However, despite its usefulness, RDC does have certain limitations. One such limitation is the inability to calculate precise quantitative values for the reliability of a system. Furthermore, RDC can only indicate whether the system under test is deemed acceptable or unacceptable without providing a specific reliability estimate.
 
 # Comparison of Results
 
