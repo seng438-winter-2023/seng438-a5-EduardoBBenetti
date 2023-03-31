@@ -28,6 +28,9 @@ The primary objective of this lab was to help students understand the evaluation
 ![WhatsApp Image 2023-03-30 at 3 43 52 PM (10)](https://user-images.githubusercontent.com/86868318/228973132-16a11622-36a6-46d7-bcc6-5f5638d44b5d.jpeg)
 
 # Assessment Using Reliability Demonstration Chart
+3 plots for MTTFmin, twice, and half of it for test data
+![image](https://user-images.githubusercontent.com/90352983/229205275-df3a90c3-73be-442c-adb5-fd535f4af751.png)
+
 
 ![image](https://user-images.githubusercontent.com/90352983/229032428-c378cda8-555c-40e9-8be9-64be698e63b3.png)
 ![image](https://user-images.githubusercontent.com/90352983/229032491-ac362e1c-9c36-4f9c-bedf-14dc73ce6122.png)
