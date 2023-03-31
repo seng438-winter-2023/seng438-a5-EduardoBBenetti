@@ -30,7 +30,7 @@ The primary objective of this lab was to help students understand the evaluation
 # Assessment Using Reliability Demonstration Chart
 
 3 plots for MTTFmin, twice, and half of it for test data:
-![image](https://user-images.githubusercontent.com/90352983/229205275-df3a90c3-73be-442c-adb5-fd535f4af751.png)
+![image](https://user-images.githubusercontent.com/90352983/229210640-c145a834-0389-4123-8811-6a28115c7a8d.png)
 
 In order to decide the MTTFmin, there were a few steps to complete. Firstly, our group converted the data given in DAT to a text file. Moreover, the value for the Discrimination Ratio (γ), Consumer Risk (β), and Developer Risk(α) were tried with some what-if scenarios for our system under test and the results were the following:
 For Discrimination Ratio = 2, Consumer Risk = 0.1, and Developer Risk = 0.1:
