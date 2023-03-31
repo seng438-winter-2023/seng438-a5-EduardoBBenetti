@@ -33,6 +33,7 @@ The primary objective of this lab was to help students understand the evaluation
 ![image](https://user-images.githubusercontent.com/90352983/229210719-8e6bad54-6088-4d3c-9da0-5b1fa681f777.png)
 
 In order to decide the MTTFmin, there were a few steps to complete. Firstly, our group converted the data given in DAT to a text file. Moreover, the value for the Discrimination Ratio (γ), Consumer Risk (β), and Developer Risk(α) were tried with some what-if scenarios for our system under test and the results were the following:
+
 For Discrimination Ratio = 2, Consumer Risk = 0.1, and Developer Risk = 0.1:
 ![image](https://user-images.githubusercontent.com/90352983/229032428-c378cda8-555c-40e9-8be9-64be698e63b3.png)
 
