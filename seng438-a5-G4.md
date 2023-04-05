@@ -15,16 +15,39 @@ The primary objective of this lab was to help students understand the evaluation
 
 # Assessment Using Reliability Growth Testing
 
+** for this part of the assignment, the C-SFRAT tool was not showing any covariates for any input data. During the demo, the TA also confirmed that our input data format was 100% right and that we were doing everything right, however under the covariates tab, it was always showing "None".
+J5.DAT file was used, it was transformed into an excel file so that C-SFRAT can process it. **
+
+The plot of the original data using the whole failure data range.
 ![WhatsApp Image 2023-03-30 at 3 43 52 PM](https://user-images.githubusercontent.com/86868318/228972993-023e2214-0ed0-4e24-b75d-f50326fc8ad9.jpeg)
+
+Starting by selecting all the hazard functions to examine all possible models with the original plot of the data.
 ![WhatsApp Image 2023-03-30 at 3 43 52 PM (1)](https://user-images.githubusercontent.com/86868318/228973002-1c7cc760-35ec-4963-b81a-5e8ee03cbb4b.jpeg)
+
+Using the model comparison tab in the C-SFRAT tool, we sorted the rows in descending order of log-likelihood, to compare different models and to select the top 2 models by selecting the rows with the highest log-likelihood.
+Using this approach, we decided that the 'S' and 'DW3' are the best models to use for our input data.
 ![WhatsApp Image 2023-03-30 at 3 43 52 PM (2)](https://user-images.githubusercontent.com/86868318/228973012-fa120c47-977a-414e-a65b-b9afc6578a4b.jpeg)
+
+The graph of 'S' and 'DW3' models with our original failure data.
 ![WhatsApp Image 2023-03-30 at 3 43 52 PM (3)](https://user-images.githubusercontent.com/86868318/228973019-d2d33a56-05cd-4a5b-8b5d-1d8d44b6c302.jpeg)
+
+The graph of 'S' model alone with our original failure data.
 ![WhatsApp Image 2023-03-30 at 3 43 52 PM (4)](https://user-images.githubusercontent.com/86868318/228973027-a5559446-ea91-4f4c-ac80-fefd5a83ba44.jpeg)
+
+The graph of 'DW3' model alone with our original failure data.
 ![WhatsApp Image 2023-03-30 at 3 43 52 PM (5)](https://user-images.githubusercontent.com/86868318/228973039-b088c0ef-4b15-4943-a2b5-a7c3c5bff57a.jpeg)
+
+Failure Intensity and Reliability graph using our original failure data and 2 predicted models from the 2 best models chosen above: 'S' and 'DW3'.
 ![WhatsApp Image 2023-03-30 at 3 43 52 PM (6)](https://user-images.githubusercontent.com/86868318/228973046-5e638134-cea4-4654-869b-f3c6d6aad368.jpeg)
+
+Reliability graph using our original failure data and predicted model using 'S' model.
 ![WhatsApp Image 2023-03-30 at 3 43 52 PM (7)](https://user-images.githubusercontent.com/86868318/228973071-a255e4b6-5493-4548-ac31-7630f76e649d.jpeg)
+
+Reliability graph using our original failure data and predicted model using 'DW3' model.
 ![WhatsApp Image 2023-03-30 at 3 43 52 PM (8)](https://user-images.githubusercontent.com/86868318/228973103-16ec75b5-327c-43ea-9ad1-9847e6d99040.jpeg)
-![WhatsApp Image 2023-03-30 at 3 43 52 PM (9)](https://user-images.githubusercontent.com/86868318/228973110-9f75f94d-f9e7-4cd6-899f-f15718033f1e.jpeg)
+
+Using the reliability graph obtained and the our data, we have that 367 cumulative failure counts in 73 weeks, which gives us a failure rate around 5.02.
+We set a failure intensity target 3.00 (lower than failure rate) and we observe how each model predicts how and when we can reach this failure target.
 ![WhatsApp Image 2023-03-30 at 3 43 52 PM (10)](https://user-images.githubusercontent.com/86868318/228973132-16a11622-36a6-46d7-bcc6-5f5638d44b5d.jpeg)
 
 # Assessment Using Reliability Demonstration Chart
