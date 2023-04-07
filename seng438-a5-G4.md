@@ -78,6 +78,7 @@ There are several benefits to utilizing RDC as an analytical approach for determ
 However, despite its usefulness, RDC does have certain limitations. One such limitation is the inability to calculate precise quantitative values for the reliability of a system. Furthermore, RDC can only indicate whether the system under test is deemed acceptable or unacceptable without providing a specific reliability estimate.
 
 # Comparison of Results
+The results in Part 1 were about the earlier prediction of the system's reliability to determine an acceptable failure rate target of 3, similar to the prediction in Part 2 using RDC where we found the Mean Time to Failure (MTTFmin) to be 1.0 acceptable failures, which is around 0.005.
 
 # Discussion on Similarity and Differences of the Two Techniques
 
