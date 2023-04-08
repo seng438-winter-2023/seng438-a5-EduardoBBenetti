@@ -78,7 +78,9 @@ There are several benefits to utilizing RDC as an analytical approach for determ
 However, despite its usefulness, RDC does have certain limitations. One such limitation is the inability to calculate precise quantitative values for the reliability of a system. Furthermore, RDC can only indicate whether the system under test is deemed acceptable or unacceptable without providing a specific reliability estimate.
 
 # Comparison of Results
-The results in Part 1 were about the earlier prediction of the system's reliability to determine an acceptable failure rate target of 3, similar to the prediction in Part 2 using RDC where we found the Mean Time to Failure (MTTFmin) to be 1.0 acceptable failures, which is around 0.005.
+In Part 1 of our analysis, we aimed to predict the reliability of the system in order to determine an acceptable failure rate target of 3. This was achieved by analyzing the system's failure rate history, as well as conducting various tests and simulations to assess its performance under different conditions. Based on these findings, we were able to set a failure rate target of 3, which is considered an acceptable level of reliability for the system.
+
+In Part 2 of our analysis, we used a Reliability Demonstration Test (RDT) to further evaluate the system's reliability. Specifically, we used the RDT to estimate the Mean Time to Failure (MTTFmin), which is the expected number of failures that will occur before a specified time period (in this case, one acceptable failure). Our analysis found that the MTTFmin for the system was 1.0 acceptable failures, which translates to a failure rate of around 0.005. This result indicates that the system is capable of achieving the acceptable failure rate target of 3, and suggests that it is operating at a high level of reliability.
 
 # Discussion on Similarity and Differences of the Two Techniques
 
